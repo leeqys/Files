@@ -37,6 +37,30 @@ DOMAIN-SUFFIX,hotbit.io,GlobalMedia
 DOMAIN-SUFFIX,coinsuper.com,GlobalMedia
 DOMAIN-SUFFIX,citex.io,GlobalMedia
 DOMAIN-SUFFIX,ritmex.agg.one,GlobalMedia
+# > other
+DOMAIN-SUFFIX,youtube.com,Proxy
+DOMAIN-SUFFIX,biyoujun.com,Proxy
+DOMAIN-SUFFIX,huaxingui.com,Proxy
+DOMAIN-SUFFIX,pangzitv.com,Proxy
+DOMAIN-SUFFIX,olevod.eu,Proxy
+DOMAIN-SUFFIX,xinqixi.com,Proxy
+DOMAIN-SUFFIX,btsbao.com,Proxy
+DOMAIN-SUFFIX,github.com,Proxy
+DOMAIN-SUFFIX,web.telegram.org,Proxy
+DOMAIN-SUFFIX,t.me,Proxy
+DOMAIN-SUFFIX,translate.google.cn,Proxy
+DOMAIN-SUFFIX,aicoin.cn,Proxy
+DOMAIN-SUFFIX,nssurge.com,Proxy
+DOMAIN-SUFFIX,cryptopanic.com,Proxy
+DOMAIN-SUFFIX,apple.com,Proxy
+DOMAIN-SUFFIX,yunpanjingling.com,Proxy
+DOMAIN-SUFFIX,aisouziyuan.com,Proxy
+DOMAIN-SUFFIX,pan.baiduwp.com,Proxy
+DOMAIN-SUFFIX,doubibackup.com,Proxy
+DOMAIN-SUFFIX,converto.io,Proxy
+DOMAIN-SUFFIX,y2mate.com,Proxy
+DOMAIN-SUFFIX,haihao.huiyutongwechat.top,Proxy
+DOMAIN-SUFFIX,bcy.pub,Proxy
 # > Deezer
 USER-AGENT,Deezer*,GlobalMedia
 DOMAIN-SUFFIX,deezer.com,GlobalMedia
