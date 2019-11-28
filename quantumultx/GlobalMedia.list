@@ -61,3 +61,7 @@ DOMAIN-SUFFIX,converto.io,Proxy
 DOMAIN-SUFFIX,y2mate.com,Proxy
 DOMAIN-SUFFIX,haihao.huiyutongwechat.top,Proxy
 DOMAIN-SUFFIX,bcy.pub,Proxy
+# > TikTok
+DOMAIN,api-h2.tiktokv.com,PROXY
+DOMAIN,api2-16-h2.musical.ly,PROXY
+
