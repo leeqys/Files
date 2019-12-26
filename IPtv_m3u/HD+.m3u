@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="TVB翡翠台" group-title="TVB",翡翠台
+#EXTINF:-1 tvg-id="201" tvg-name="TVB翡翠台" group-title="TVB",翡翠台
 http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/CCTV1.jpg" group-title="央视",CCTV1
