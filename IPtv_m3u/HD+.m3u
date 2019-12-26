@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="201" tvg-name="TVB翡翠台" group-title="TVB",翡翠台
-http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
+http://r05.wscdn.hls.xiaoka.tv/live/6ae426ec7048443ea8cdbabb40b5569c/playlist.m3u8#http://hlslive.qyvideo.net/live/92e15347c4cb44d2a7965c0b71d5c1a0/index.m3u8#http://r05.wscdn.hls.xiaoka.tv/live/b1e8276c156048e1a3538dd1bf57afc6/playlist.m3u8#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/shiburuna/ziliudi/master/img/CCTV1.jpg" group-title="央视",CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
