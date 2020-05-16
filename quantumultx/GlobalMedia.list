@@ -49,7 +49,6 @@ DOMAIN-SUFFIX,github.com,Proxy
 DOMAIN-SUFFIX,web.telegram.org,Proxy
 DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,translate.google.cn,Proxy
-DOMAIN-SUFFIX,aicoin.cn,Proxy
 DOMAIN-SUFFIX,nssurge.com,Proxy
 DOMAIN-SUFFIX,cryptopanic.com,Proxy
 DOMAIN-SUFFIX,apple.com,Proxy
@@ -64,4 +63,3 @@ DOMAIN-SUFFIX,bcy.pub,Proxy
 # > TikTok
 DOMAIN,api-h2.tiktokv.com,PROXY
 DOMAIN,api2-16-h2.musical.ly,PROXY
-
