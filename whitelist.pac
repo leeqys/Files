@@ -58,6 +58,12 @@ var white_domains = {
 "126":1,
 "51":1
 },"biz":{
+
+// 自定义
+"baiyeys":1,
+"7daysinn":1,
+// 
+
 "7daysinn":1,
 "baozhuang":1,
 "bengfa":1,
@@ -4689,7 +4695,6 @@ var white_domains = {
 "hunqingren":1,
 "hunt007":1,
 "hunuo":1,
-"huobi":1,
 "huoche":1,
 "huochepiao":1,
 "huochepu":1,
