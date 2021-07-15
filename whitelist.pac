@@ -6213,7 +6213,6 @@ var white_domains = {
 "pc51":1,
 "pc6":1,
 "pc841":1,
-"pcbeta":1,
 "pcpc521":1,
 "pcpop":1,
 "pcwl":1,
