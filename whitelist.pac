@@ -60,6 +60,7 @@ var white_domains = {
 },"biz":{
 
 // 自定义
+"bbdj.com":1,
 "baiyeys":1,
 "7daysinn":1,
 // 
