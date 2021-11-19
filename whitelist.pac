@@ -1,5 +1,5 @@
 // 
-// SwitchyOmega反向设置，指向whitelist.pac即直连，否则代理
+// SwitchyOmega反向设置，指向whitelist.pac即直连[以下列出的所有网址]，否则代理
 // 破娃酱更新 https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
 // 备用的更新 https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/whitelist.pac
 
@@ -59,7 +59,7 @@ var white_domains = {
 "51":1
 },"biz":{
 
-// 自定义
+// 自定义 [以下是不走代理的网址]
 "bbdj.com":1,
 "7daysinn":1,
 
