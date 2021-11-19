@@ -61,8 +61,9 @@ var white_domains = {
 
 // 自定义
 "bbdj.com":1,
-"baiyeys":1,
 "7daysinn":1,
+
+	
 // 
 
 "7daysinn":1,
