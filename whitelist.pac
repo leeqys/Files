@@ -2,6 +2,7 @@
 // SwitchyOmega反向设置，指向whitelist.pac即直连[以下列出的所有网址]，否则代理
 // 破娃酱更新 https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
 // 备用的更新 https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/whitelist.pac
+// leeqys的更新 https://raw.githubusercontent.com/leeqys/Files/master/whitelist.pac
 
 
 var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;SOCKS5 127.0.0.1:7891;";
