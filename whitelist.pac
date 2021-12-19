@@ -63,7 +63,7 @@ var white_domains = {
 // 自定义 [以下是不走代理的网址]
 "bbdj.com":1,
 "7daysinn":1,
-
+"github.com":1,
 	
 // 
 
