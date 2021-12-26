@@ -1,0 +1,65 @@
+# (custom_url)
+# (Music)
+# > Bitcoin
+DOMAIN-SUFFIX,binance.com,customurl
+DOMAIN-SUFFIX,binance.com/cn,customurl
+DOMAIN-SUFFIX,okex.com,customurl
+DOMAIN-SUFFIX,hbg.com,customurl
+DOMAIN-SUFFIX,otc.hbg.com,customurl
+DOMAIN-SUFFIX,bitfinex.com,customurl
+DOMAIN-SUFFIX,bittrex.com,customurl
+DOMAIN-SUFFIX,global.bittrex.com,customurl
+DOMAIN-SUFFIX,b1.run,customurl
+DOMAIN-SUFFIX,betaex.com,customurl
+DOMAIN-SUFFIX,bitforex.com,customurl
+DOMAIN-SUFFIX,bibox.com,customurl
+DOMAIN-SUFFIX,exx.com,customurl
+DOMAIN-SUFFIX,poloniex.com,customurl
+DOMAIN-SUFFIX,bithumb.com,customurl
+DOMAIN-SUFFIX,gate.io,customurl
+DOMAIN-SUFFIX,localbitcoins.com,customurl
+DOMAIN-SUFFIX,akdex.io,customurl
+DOMAIN-SUFFIX,mxc.com,customurl
+DOMAIN-SUFFIX,biger.pro,customurl
+DOMAIN-SUFFIX,zbm.com,customurl
+DOMAIN-SUFFIX,biss.com,customurl
+DOMAIN-SUFFIX,bggex.pro,customurl
+DOMAIN-SUFFIX,ronannce.net,customurl
+DOMAIN-SUFFIX,zb.cn,customurl
+DOMAIN-SUFFIX,hbgeos.com,customurl
+DOMAIN-SUFFIX,biki.com,customurl
+DOMAIN-SUFFIX,lbank.io,customurl
+DOMAIN-SUFFIX,myqbtc.com,customurl
+DOMAIN-SUFFIX,piexgo.com,customurl
+DOMAIN-SUFFIX,fcoin.com,customurl
+DOMAIN-SUFFIX,beta.binance.com,customurl
+DOMAIN-SUFFIX,hotbit.io,customurl
+DOMAIN-SUFFIX,coinsuper.com,customurl
+DOMAIN-SUFFIX,citex.io,customurl
+DOMAIN-SUFFIX,ritmex.agg.one,customurl
+# > other
+DOMAIN-SUFFIX,youtube.com,Proxy
+DOMAIN-SUFFIX,biyoujun.com,Proxy
+DOMAIN-SUFFIX,huaxingui.com,Proxy
+DOMAIN-SUFFIX,pangzitv.com,Proxy
+DOMAIN-SUFFIX,olevod.eu,Proxy
+DOMAIN-SUFFIX,xinqixi.com,Proxy
+DOMAIN-SUFFIX,btsbao.com,Proxy
+DOMAIN-SUFFIX,github.com,Proxy
+DOMAIN-SUFFIX,web.telegram.org,Proxy
+DOMAIN-SUFFIX,t.me,Proxy
+DOMAIN-SUFFIX,translate.google.cn,Proxy
+DOMAIN-SUFFIX,nssurge.com,Proxy
+DOMAIN-SUFFIX,cryptopanic.com,Proxy
+DOMAIN-SUFFIX,apple.com,Proxy
+DOMAIN-SUFFIX,yunpanjingling.com,Proxy
+DOMAIN-SUFFIX,aisouziyuan.com,Proxy
+DOMAIN-SUFFIX,pan.baiduwp.com,Proxy
+DOMAIN-SUFFIX,doubibackup.com,Proxy
+DOMAIN-SUFFIX,converto.io,Proxy
+DOMAIN-SUFFIX,y2mate.com,Proxy
+DOMAIN-SUFFIX,haihao.huiyutongwechat.top,Proxy
+DOMAIN-SUFFIX,bcy.pub,Proxy
+# > TikTok
+DOMAIN,api-h2.tiktokv.com,PROXY
+DOMAIN,api2-16-h2.musical.ly,PROXY
