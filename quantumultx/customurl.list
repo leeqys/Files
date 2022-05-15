@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,hotbit.io,customurl
 DOMAIN-SUFFIX,coinsuper.com,customurl
 DOMAIN-SUFFIX,citex.io,customurl
 DOMAIN-SUFFIX,ritmex.agg.one,customurl
+DOMAIN-SUFFIX,trustwallet.com,customurl
 # > other
 DOMAIN-SUFFIX,youtube.com,Proxy
 DOMAIN-SUFFIX,biyoujun.com,Proxy
